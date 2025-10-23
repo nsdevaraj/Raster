@@ -74,3 +74,12 @@ docker-compose.override.yml
 .pytest_cache/
 .coverage
 htmlcov/
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.env
+.env.*
+.vscode/
+.idea/
